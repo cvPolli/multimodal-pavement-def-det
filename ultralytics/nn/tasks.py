@@ -353,7 +353,7 @@ class DetectionModel(BaseModel):
         self.imu_classification_model = ImuClassificationModel(
             input_size=imu_feature_input_size, num_classes=2
         )
-        self.imu_classification_model.load_state_dict(torch.load("/mnt/personal/cv-msc/imu_measures_brain/best_mlp_300_normalized_split_by_video.pth"))
+        self.imu_classification_model.load_state_dict(torch.load("weights/best_mlp_300_normalized_split_by_video.pth"))
         
         # Build strides
         m = self.model[-1]  # Detect()
