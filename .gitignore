@@ -139,7 +139,6 @@ dmypy.json
 
 # datasets and projects
 datasets/
-runs/
 wandb/
 .DS_Store
 
