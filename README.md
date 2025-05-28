@@ -2,7 +2,7 @@
 ## Authors
 [Arthur Jose Antocevicz Polli](https://github.com/cvPolli/)
 
-[Ricardo Dutra da Silva](ricardodutr@gmail.com)
+[Ricardo Dutra da Silva](https://github.com/rdodutra)
 
 [Rodrigo Minetto](https://github.com/rminetto)
 
