@@ -1,5 +1,4 @@
-# DETECTION OF PAVEMENT DEFECTS ON ROADS USING A MULTIMODAL YOLOV8 WITH IMAGE AND IMU DATA
-
+# Detection of Pavement Defects on Roads Using a Multimodal YOLOv8 with Image and IMU Data
 ## Authors
 [Arthur Jose Antocevicz Polli](https://github.com/cvPolli/)
 
